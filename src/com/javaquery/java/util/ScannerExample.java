@@ -21,7 +21,7 @@ public class ScannerExample {
         String username = scanner.nextLine();
         System.out.println("Password:");
         String password = scanner.nextLine();
-        System.out.println("Enter random number(Read interger from console):");
+        System.out.println("Enter random number(Read integer from console):");
         int number = scanner.nextInt();
         
         System.out.println("[Username:" + username + ", Password: " + password + ", Number: " + number + "]");
